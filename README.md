@@ -72,7 +72,4 @@ Este proyecto es una aplicación web desarrollada con Flask que se conecta a una
     * Abre tu navegador web y ve a la siguiente dirección:
         `http://127.0.0.1:5000`
 
-## 📸 Capturas de Pantalla
-*(Aquí puedes añadir capturas de pantalla de cómo se ven tus gráficas y tablas)*
-
 ---
