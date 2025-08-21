@@ -27,8 +27,7 @@ Este proyecto es una aplicación web desarrollada con Flask que se conecta a una
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-    cd tu-repositorio
+    git clone https://github.com/YeyoDiego223/Dashboard-de-An-lisis-de-Vuelos-con-Flask-y-Matplotlib
     ```
 
 2.  **Preparar la Base de Datos:**
